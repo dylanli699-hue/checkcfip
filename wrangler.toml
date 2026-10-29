@@ -12,6 +12,6 @@ preview_id = "local_kv_preview_id"
 
 [vars]
 # 登录密码和APItoken，生产环境请在 Cloudflare Dashboard 设置
-LOGINPW = "Veison520@"
-APITOKEN = "4a3fbdcf-2792-4915-b7e4-7c54c32fe9d9"
-JWT_SECRET = "Dylan"
+LOGINPW = "LOGINPW"
+APITOKEN = "APITOKEN"
+JWT_SECRET = "APITOKEN"
